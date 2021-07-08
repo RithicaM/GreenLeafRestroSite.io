@@ -1,4 +1,4 @@
-+const readMoreBtn = document.querySelector(".read-more-btn");
+const readMoreBtn = document.querySelector(".read-more-btn");
 const text = document.querySelector(".text");
 
 readMoreBtn.addEventListener("click", (e) => {
