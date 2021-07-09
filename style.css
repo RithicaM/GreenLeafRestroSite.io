@@ -156,7 +156,7 @@ line-height: 30px;
 .text.show-more .dots {
   display: none;
 }
-.read-more-btn::active {
+.read-more-btn:active {
   background-color: #ffffff;
   border: 2px solid #4CAF50;
   color:#76b605 ;
